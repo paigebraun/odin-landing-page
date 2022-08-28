@@ -1,0 +1,1 @@
+A project completed as part of The Odin Project Foundations course to demonstrate ability to create a landing page using HTML and CSS.
