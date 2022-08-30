@@ -119,3 +119,27 @@ h2 {
     color: #1f2937;
     margin-top: 10px;
 }
+
+/*section 3*/
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    padding: 100px 200px;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: light;
+    padding: 0px;
+    margin: 0px;
+}
+
+.author {
+    padding: 0px;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    font-size: 22px;
+}
